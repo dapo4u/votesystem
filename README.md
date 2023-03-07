@@ -1,5 +1,9 @@
 ##  AN e-VOTING APPLICATION
-## Video[![How to make an e-voting app  ](https://img.youtube.com/vi/g59oXd_-tZc/lp.png)](https://www.youtube.com/watch?v=g59oXd_-tZc)
+My e-voting app is a SECURED  ,FAST and IMMUTABLE  application that helps to facilitate voting process among a large number of people and the app prevents electoral malpractices such as rigging,falsification of results(nothing like ballot box snatching).The app preventing MULTIPLE voting,thereby making the Election FREE,FAIR AND CREDIBLE and these are what Nigerians are clamouring for.
+
+## Video
+Here is the video link on how to make an e-voting app. If you encounter any error,please contact on whatsapp number 08134112210,thanks
+(https://www.youtube.com/watch?v=g59oXd_-tZc)
 
 
 

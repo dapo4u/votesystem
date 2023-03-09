@@ -35,6 +35,9 @@ visit the voters page at http://localhost/votesystem/index.php
 
 login into the voters page for each voter with the password and voters id  contained in the readme.txt
 
+
+
+
 PASSWORD               VOTERS ID 
 
 mp87temCJSe%#d&      IGjnscRfDX

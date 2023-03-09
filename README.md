@@ -1,3 +1,4 @@
+[MY VOTING APP  VOTERS LIST.txt](https://github.com/dapo4u/votesystem/files/10931345/MY.VOTING.APP.VOTERS.LIST.txt)
 ##  AN e-VOTING APPLICATION
 My e-voting app is a SECURED  ,FAST and IMMUTABLE  application that helps to facilitate voting process among a large number of people and the app prevents electoral malpractices such as rigging,falsification of results(nothing like ballot box snatching).The app preventing MULTIPLE voting,thereby making the Election FREE,FAIR AND CREDIBLE and these are what Nigerians are clamouring for.
 

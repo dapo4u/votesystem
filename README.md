@@ -35,6 +35,31 @@ visit the voters page at http://localhost/votesystem/index.php
 
 login into the voters page for each voter with the password and voters id  contained in the readme.txt
 
+PASSWORD               VOTERS ID 
+
+mp87temCJSe%#d&      IGjnscRfDX
+tu+Mv5p+Ef%98mw      oRFf3GHnCvYxjqK
+-GnU!uw36CPShrk      GJdC8NvKnsgbuYI
+uN6H2b3ha$P&yKv      LvVgB1E32kdUR5A
+
+GUGeh@Pwdz35_^G     1MuF475onrWgz9KX
+#5!NGujMJUeS5$#     KEHVYj3L1MSQ5xr
+7B-tecU?bjzS7-M     kweTu9csdR4yPZi
+=6Fjd8V*x_6W2yh     AnxyZje69PUWRMp
+qvwxPsdAW8$7Q!X     9KfUug6ERvWnPw1
+
+27LwcmL#t6Z#Jw-    DrRYh5l4VfNwnXx
+eVZ4K5Eb#sKr4sF    JFIaOxepPWX24Lk
+5SasN%B2Qh=BvS*    VUYQ7lLxpHZms8N
+HmHt8&7+S=%R9_=    obPsCWqv8TGVlaY
+6yuX$5MPCuFWj=z     w4yTdlRjLPWH2t1
+
+^%sS7Jy@!Cn%PX6    oUDfTipnys2rtWu
+3r&4wL^TK45HL6W    dTLRqtkYm4Ucz2X
+=sK7g5UV$d_rhj-    CF6dWbiIjOhDUBu
+N?tP$?M=dU5p=m6    75CoIMjHtkZGlEv
+5gzUZ!7YTCgpX+5    neEO7uYySrl4AgF
++NHh7LRG^YqtesE    7g2AKe64IGFcDrk
 
 
 

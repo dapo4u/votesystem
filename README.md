@@ -38,13 +38,12 @@ login into the voters page for each voter with the password and voters id  conta
 
 
 
-P
-^%sS7Jy@!Cn%PX6    oUDfTipnys2rtWu
-3r&4wL^TK45HL6W    dTLRqtkYm4Ucz2X
-=sK7g5UV$d_rhj-    CF6dWbiIjOhDUBu
-N?tP$?M=dU5p=m6    75CoIMjHtkZGlEv
-5gzUZ!7YTCgpX+5    neEO7uYySrl4AgF
-+NHh7LRG^YqtesE    7g2AKe64IGFcDrk
+PASSWORD               VOTERS ID 
+
+mp87temCJSe%#d&      IGjnscRfDX
+tu+Mv5p+Ef%98mw      oRFf3GHnCvYxjqK
+-GnU!uw36CPShrk      GJdC8NvKnsgbuYI
+uN6H2b3ha$P&yKv      LvVgB1E32kdUR5A
 
 
 

@@ -34,7 +34,9 @@ login into the admin page with  the following details                   username
 
 visit the voters page at http://localhost/votesystem/index.php
 
-login into the voters page for each voter with the password and voters id  contained in the readme.txt or 
+login into the voters page for each voter with the password and voters id  contained in the readme.txt or download the voters list at 
+
+##https://github.com/dapo4u/votesystem/files/10931345/MY.VOTING.APP.VOTERS.LIST.txt
 
 
 
